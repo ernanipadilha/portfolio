@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Special+Elite&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Paprika&display=swap');
 body {
-  font-family: "Special Elite", cursive;
+  font-family: 'Paprika', cursive;
   width: auto;
   height: 1080px;
   background: linear-gradient( 208deg, rgba(0, 0, 0, 1) 47%, rgba(134, 148, 152, 1) 73%);
@@ -45,8 +46,9 @@ body {
 }
 
 .tema button {
+  font-family: 'Paprika', cursive;
   align-self: flex-end;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 400;
   padding: 8px 16px;
   background: #ECF4FF;
